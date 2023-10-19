@@ -7,7 +7,7 @@ import AccountBalanceOutlinedIcon from '@mui/icons-material/AccountBalanceOutlin
 import GitHubIcon from '@mui/icons-material/GitHub';
 
 
-export default function TestProfile() {
+export default function FelpsProfile() {
 
   return (
     <div className="flex flex-col min-h-screen border-none screen rounded-lg bg-white px-4 shadow-default dark:border-strokedark dark:bg-boxdark sm:px-7.5 xl:pb-1">
