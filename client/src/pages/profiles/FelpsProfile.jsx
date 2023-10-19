@@ -19,7 +19,7 @@ export default function TestProfile() {
                 <div className="absolute -bottom-6">
                   {/* Sua foto aqui: */}
                     <img
-                      src="https://imgur.com/a/hdtyV0U.png"
+                      src="https://i.imgur.com/5GhFJa2.png"
                       className="object-cover border-4 border-white w-40 h-40 rounded-full"
                       alt="cover"
                     />
